@@ -1,0 +1,8 @@
+{
+    "controls": [
+        {
+            "name": "Sega Genesis/Mega Drive Controller",
+            "buttons": ["B", "C", "A", "START", "UP", "DOWN", "LEFT", "RIGHT", "X", "Y", "Z", "MODE"]
+        }
+    ]
+}
