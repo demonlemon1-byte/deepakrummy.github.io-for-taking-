@@ -1,8 +1,21 @@
 {
     "controls": [
         {
-            "name": "Sega Genesis/Mega Drive Controller",
-            "buttons": ["B", "C", "A", "START", "UP", "DOWN", "LEFT", "RIGHT", "X", "Y", "Z", "MODE"]
+            "name": "Sega Genesis",
+            "buttons": [
+                "B",
+                "C",
+                "A",
+                "START",
+                "UP",
+                "DOWN",
+                "LEFT",
+                "RIGHT",
+                "X",
+                "Y",
+                "Z",
+                "MODE"
+            ]
         }
     ]
 }
